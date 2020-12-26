@@ -1,6 +1,7 @@
 
 # INTENTION : IMPLEMENT KRUSKAL ALGORITHM
 Implementation of a minimum spanning tree`(MST)` algorithm for a weighted undirected graph.
+For further details, please check [this course](https://www.coursera.org/learn/c-plus-plus-a/peer/8Wdkc/homework-3-compute-the-minimum-spanning-tree-for-an-inputted-graph)
 
 ## Spanning Tree
 A tree that reaches all the nodes of the graph. The cost for such a spanning tree is the sum of all the edge costs in the spanning tree's edge set. Over all possible spanning trees, the MST is the one with the least total cost.
